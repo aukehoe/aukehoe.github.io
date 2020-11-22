@@ -17,4 +17,9 @@ After completing sketches for every page I thought the website needed, I created
 I also designed a color pallete that I thought matched well with the feeling of the site, and what it was meant to accomplish.
 <img width="1604" alt="color pallette for homegrown" src="images/homegrown_ColorScheme_Version1.PNG">
 
-Before creating my prototype, I wrote an enormous planning document and went through each sketch to write down pages I needed as well as any extra pages I thought of. After I was satisfied with that, I created wireframes for each page. After finishing the wireframes, I moved on to creating a high-functioning prototype in Adobe XD. 
+Before creating my prototype, I wrote an enormous planning document and went through each sketch to write down pages I needed as well as any extra pages I thought of. After I was satisfied with that, I created wireframes for each page. 
+<img width="1604" alt="wireframe of home page" src="images/homegrown_HomeWireframe.PNG">
+<img width="1604" alt="wireframe of my plants page" src="images/homegrown_MyPlantsWireframe.PNG">
+
+After finishing the wireframes, I moved on to creating a high-functioning prototype in Adobe XD. This allowed me to concretely visualize the website without having to reorganize and edit code each time I wanted to make a big change. 
+<img width="1604" alt="wireframe of my plants page" src="images/homegrown_XDPageOverhead.PNG">
