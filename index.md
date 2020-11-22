@@ -5,8 +5,6 @@ I'm Aurora Kehoe and I grew up in the mountains in the middle of a very beautifu
 
 <img width="350" alt="headshot" src="images/IMG_6431.PNG">
 
-*My professional headshot*
-
 
 ### Skills and Experience
 **Skills**: Java, C#, Selenium, JavaScript, Cypress, Microsoft Office, Adobe Creative Cloud
