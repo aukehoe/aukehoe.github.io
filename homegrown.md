@@ -8,4 +8,6 @@ I tried to come up with other ideas but the only ones that really sparked intere
 
 ### Discovery Phases
 After coming up with a basic idea and getting user feedback on that idea, I started sketching out the ideas in my head about my website. Here are a few examples: 
-<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/sketch1_homePage_version1.jpg">  my 1st sketch for the home page 
+<img width="1604" alt="first version of home page" src="images/sketch1_homePage_version1.jpg">  my 1st sketch for the home page
+
+<img width="1600" alt="second version of home page" src="images/sketch3_homePage_version2.jpg"> my 2nd sketch for the home page
