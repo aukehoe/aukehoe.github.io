@@ -15,5 +15,6 @@ After coming up with a basic idea and getting user feedback on that idea, I star
 After completing sketches for every page I thought the website needed, I created a mind map to delve into what I wanted users to feel when using *homegrown*
 <img width="1604" alt="mind map for homegrown" src="images/KehoeStage3_MindMap.png"> 
 I also designed a color pallete that I thought matched well with the feeling of the site, and what it was meant to accomplish.
+<img width="1604" alt="color pallette for homegrown" src="images/homegrown_ColorScheme_Version0.png">
 
 Before creating my prototype, I wrote an enormous planning document and went through each sketch to write down pages I needed as well as any extra pages I thought of. After I was satisfied with that, I created wireframes for each page. After finishing the wireframes, I moved on to creating a high-functioning prototype in Adobe XD. 
