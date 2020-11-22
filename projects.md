@@ -7,3 +7,10 @@ I am excited to show my projects that I've completed over the years. Please enjo
 <img width="650" alt="homegrown image" src="images/homegrownHeroImage.PNG">
 
 [*The Great Purge*](testEnvironment.md) - This project doesn't really have a name, but it's one of the things I am most proud of during my two-year internship. Basically, my fellow intern and I defeated a leviathan of a project during the first summer of our internship and were able to clean up a test environment, creating a much-improved project for us and for all future interns who need to interact with that code. 
+
+
+
+
+
+
+[Photo by Christina Morillo from Pexels](https://www.pexels.com/photo/black-and-gray-laptop-computer-turned-on-doing-computer-codes-1181271/)
