@@ -14,8 +14,10 @@ After coming up with a basic idea and getting user feedback on that idea, I star
 
 ## Mind Map
 After completing sketches for every page I thought the website needed, I created a mind map to delve into what I wanted users to feel when using *homegrown*
+
 <img width="800" alt="mind map for homegrown" src="images/KehoeStage3_MindMap.png"> 
 <img width="800" alt="color pallette for homegrown" src="images/homegrown_ColorScheme_Version1.PNG">
+
 I also designed a color pallete that I thought matched well with the feeling of the site, and what it was meant to accomplish.
 
 ## Wireframes
