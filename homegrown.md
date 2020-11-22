@@ -21,5 +21,8 @@ Before creating my prototype, I wrote an enormous planning document and went thr
 <img width="1604" alt="wireframe of home page" src="images/homegrown_HomeWireframe.PNG">
 <img width="1604" alt="wireframe of my plants page" src="images/homegrown_MyPlantsWireframe.PNG">
 
-After finishing the wireframes, I moved on to creating a high-functioning prototype in Adobe XD. This allowed me to concretely visualize the website without having to reorganize and edit code each time I wanted to make a big change. 
+After finishing the wireframes, I moved on to creating a high-functioning prototype in Adobe XD. This allowed me to concretely visualize the website without having to reorganize and edit code each time I wanted to make a big change. Below is how I organized all the different pages that were connected through Adobe XD's prototyping tools.
 <img width="1604" alt="wireframe of my plants page" src="images/homegrown_XDPageOverhead.PNG">
+
+Now that I had a working prototype, I sent the prototype to potential users and got their feedback. This was my favorite part of the process as I got to see others interact with what I'd worked so hard on. I enjoyed hearing what they liked, what they didn't, and suggestions for different features the site could have. 
+Overall, their opinions of *homegrown* were positive, which I was very glad of.
