@@ -46,3 +46,6 @@ The Usability Heuristics were interesting to learn and work with while creating 
 8. Error Recovery - Just as I introduced verification steps in no. 5, so did I create ideas for error handling to help the user get to their desired destination.
 9. Help and Documentation - I created a help page for users to look through if they have any questions as well as creating a form so that users can directly contact the support team.
 10. Visibility of System Status - while pages load, I would display a little animatic of a plant growing that is synchronized with the progress of the system loading. 
+
+## Moving Forward
+This project is by no means finished yet and I am excited to continue developing it. This project was one of the highlights of my semester and I was thrilled to hear from the users testing it that they would like to use it beyond just a prototype. 
