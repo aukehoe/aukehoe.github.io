@@ -5,6 +5,8 @@ I'm Aurora Kehoe and I grew up in the mountains, in the middle of a very beautif
 
 ### Skills and Experience
 **Skills**: Java, C#, Selenium, JavaScript, Cypress, Microsoft Office, Adobe Creative Cloud
+
+
 **Experience** Coming up on 2 years in creating and maintaining automated testing environments for contracted sites as well as a time being a project manager for a full-class collaborative project.
 
 ## Things I've Done
