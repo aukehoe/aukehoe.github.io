@@ -7,7 +7,7 @@ Life is busy and plants suffer when forgotten, so *homegrown* provides that nece
 I tried to come up with other ideas but the only ones that really sparked interest were to do with plants so I figured out what the hardest thing for me to remember about owning plants is and came up with *homegrown* as a result.
 
 ## Discovery Phases
-After coming up with a basic idea and getting user feedback on that idea, I started sketching out the ideas in my head about my website, each sketch realizing more of what I wanted *homegrown* to look like. Here are a few examples: 
+After coming up with a basic idea and getting user feedback on that idea, I started sketching out basic concepts about my website, each sketch realizing more of what I wanted *homegrown* to look like. Here are a few examples: 
 <img width="800" alt="first version of home page" src="images/sketch1_homePage_version1.jpg"> 
 
 <img width="800" alt="second version of home page" src="images/sketch3_homePage_version2.jpg"> 
@@ -32,13 +32,13 @@ After finishing the wireframes, I moved on to creating a high-functioning protot
 If you'd like, you can [view the *homegrown* prototype](https://xd.adobe.com/view/6884cace-8c66-40e2-8536-6d7d4b3b6d60-3dd7/?fullscreen) here
 
 ## User Testing
-Now that I had a working prototype, I sent the prototype to potential users and got their feedback. This was my favorite part of the process as I got to see others interact with what I'd worked so hard on. I enjoyed hearing what they liked, what they didn't, and suggestions for different features the site could have. 
+I sent the prototype to potential users and walked through the site with them, documenting their reactions and feedback. This was my favorite part of the process as I got to see others interact with what I'd worked so hard on. I enjoyed hearing what they liked, what they didn't, and suggestions for different features the site could have. 
 Overall, their opinions of *homegrown* were positive, which I was very glad of.
 <img width="800" alt="wireframe of my plants page" src="images/User5Results.PNG">
 
 ## Usability Heuristics
 The Usability Heuristics were interesting to learn and work with while creating this project. Here is how I implemented the following heuristics: 
-1. Match between system and real world - I used icons and text that users would be familiar with so that they wouldn't have to spend too long learning how to use the app. Like on my my plants page, I used a + for adding a plant and a magnifying glass to identify a plant. Users are familiar with these symbols so it will make using that interface easier.
+1. Match between system and real world - I used icons and text that users would be familiar with so that they wouldn't have to spend too long learning how to use the app. Like on the "my plants" page, I used a + for adding a plant and a magnifying glass to identify a plant. Users are familiar with these symbols so it will make using that interface easier.
 2. User Control and Freedom - my prototype depends entirely on the user telling it what to do and allows all possible freedoms to allow users control over their plants and their account.
 3. Consistency and Standard - I used the same styles and colors across my entire website. I created a color scheme to make sure I used the same colors on every page, along with basic shapes and ideas that are present across the site.
 4. Error Prevention - I implemented verification steps so that if ever a user is taking an action that's in the danger zone of deleting something like a plant, they will have to double check before the action goes through.
@@ -51,3 +51,6 @@ The Usability Heuristics were interesting to learn and work with while creating 
 
 ## Moving Forward
 This project is by no means finished yet and I am excited to continue developing it. This project was one of the highlights of my semester and I was thrilled to hear from the users testing it that they would like to use it beyond just a prototype. 
+
+
+[Go back to Projects page](projects.md)
