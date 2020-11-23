@@ -1,7 +1,7 @@
 # My UX Projects - The Great Purge
 
 ## The Purpose
-When myself and my fellow intern started our new job on the same day, we were thrown into a whirlpool of confusing code with poor documentation as well as a complicated site that the code was written to test on. This particular test environment was the product of several years and different groups of interns. So we set out to redo the code architecture of the project so that we and all other interns to come after us would be able to navigate the project and add to it with relative ease. 
+When I and my fellow intern started our new job on the same day, we were thrown into a whirlpool of confusing code with poor documentation as well as a complicated site that the code was written to test. This particular test environment was the product of several years and different groups of interns. So, we set out to redo the code architecture of the project in order that we and all other interns to come after us would be able to navigate the project and add to it with relative ease. 
 
 ## Brainstorming
 My fellow intern and I sat down with our lunches (we knew it would take a while) and began to break down what we knew about the project, what needed to stay, and what could be purged. Over the course of a few sandwiches, we were able to get basic architecture sketched out based on what we knew so that we would have a solid case for refactoring the test environment to present to our manager. 
@@ -21,4 +21,4 @@ I did not know what the usability heuristics were at the time of completing this
 Due to security concerns, I cannot share images of the code we refactored or the file architecture. Despite that, this project is one of the projects I am most proud of. When my internship comes to an end, I will be proud to leave behind what we did in confidence that we left it better than we found it. 
 
 
-[Go back to Projects page](projects.md)
+[Return to Projects](projects.md)
