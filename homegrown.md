@@ -53,4 +53,4 @@ The Usability Heuristics were interesting to learn and work with while creating 
 This project is by no means finished yet and I am excited to continue developing it. This project was one of the highlights of my semester and I was thrilled to hear from the users testing it that they would like to use it beyond just a prototype. 
 
 
-[Go back to Projects page](projects.md)
+[Return to Projects](projects.md)
