@@ -19,3 +19,6 @@ I did not know what the usability heuristics were at the time of completing this
   -	Help and documentation: in addition to purging and reorganizing the project itself, we updated the project's Wiki on our company's GitLab to reflect all the changes we made and to formally document the standards we established so that all users following us will know how to match what we did. (Or improve it, should the need arise!)
 
 Due to security concerns, I cannot share images of the code we refactored or the file architecture. Despite that, this project is one of the projects I am most proud of. When my internship comes to an end, I will be proud to leave behind what we did in confidence that we left it better than we found it. 
+
+
+[Go back to Projects page](projects.md)
